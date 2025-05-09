@@ -17,7 +17,7 @@ El reto no era solo detectar fraudes, sino diseñar una solución que **tomara d
 ## 🔍 Estrategia Aplicada
 
 - ✅ Entrenamos una red neuronal con técnicas de regularización avanzadas (L1, L2, Dropout, Batch Normalization).  
-- ✅ **Optimizamos el umbral en función de los Costos y Bneficios** reales, para que el Modelo tome las decisiones que más le convienen al cliente.  
+- ✅ **Optimizamos el umbral en función de los Costos y Beneficios** reales, para que el Modelo tome las decisiones que más le convienen al cliente.  
 - ✅ Aceptamos bloqueos légitimos moderados para **detectar el mayor número de fraudes**, priorizando el ahorro de capital.
 
 ---
@@ -53,4 +53,21 @@ El reto no era solo detectar fraudes, sino diseñar una solución que **tomara d
 
 ---
 
+![Utilidad Económica vs Umbral](utilidad_vs_umbral.png)
+
+
+
+---
+
+## 🙋 Sobre mí
+
+Soy un Científico de Datos con enfoque en construir soluciones de alto impacto económico, alineadas 100% con los objetivos del cliente.
+
+Este proyecto refleja mi capacidad para aplicar inteligencia artificial no solo de forma técnica, sino estratégica, teniendo como prioridad la Inteligencia Empresarial.
+
+📩 **Estoy abierto a nuevas oportunidades laborales en Data Science, Machine Learning o IA aplicada a negocios.**
+
+🔗 Conecta conmigo en [LinkedIn] www.linkedin.com/in/andybussines 
+
+📬 Contáctame directamente: andymlconsulting@gmail.com
 
