@@ -1,4 +1,8 @@
 # 💼 Detección Estratégica de Fraude con Deep Learning: Maximizando la Utilidad Económica
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 🧠 Objetivo del Proyecto
 
