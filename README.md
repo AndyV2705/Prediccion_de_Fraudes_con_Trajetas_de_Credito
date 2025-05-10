@@ -72,7 +72,7 @@ Este proyecto refleja mi capacidad para aplicar inteligencia artificial no solo 
 
 📩 **Estoy abierto a nuevas oportunidades laborales en Data Science, Machine Learning o IA aplicada a negocios.**
 
-🔗 Conecta conmigo en [LinkedIn] www.linkedin.com/in/andybussines 
+🔗 Conecta conmigo en LinkedIn: www.linkedin.com/in/andybussines 
 
 📬 Contáctame directamente: andymlconsulting@gmail.com
 
